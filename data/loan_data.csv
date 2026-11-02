@@ -1,0 +1,1001 @@
+employment,education,city_tier,age,income,credit_score,approved
+Self-Employed,High School,Tier3,48,57700.0,679.0,Yes
+Salaried,Bachelor,Tier2,58,79600.0,759.0,Yes
+,High School,Tier3,49,55200.0,743.0,Yes
+Self-Employed,High School,Tier2,47,,711.0,Yes
+Salaried,Bachelor,Tier1,42,76300.0,536.0,No
+Unemployed,Bachelor,Tier3,32,35400.0,594.0,No
+Self-Employed,Master,Tier2,33,111300.0,570.0,Yes
+Self-Employed,Bachelor,Tier1,54,62500.0,708.0,Yes
+Salaried,Bachelor,Tier1,24,62600.0,664.0,Yes
+Salaried,Bachelor,Tier2,24,65500.0,539.0,No
+Salaried,Bachelor,Tier1,38,92500.0,635.0,Yes
+Unemployed,Bachelor,Tier1,55,70900.0,530.0,No
+,Bachelor,Tier1,50,22900.0,646.0,No
+,Master,Tier2,47,83100.0,518.0,No
+Salaried,Bachelor,Tier2,45,48200.0,692.0,Yes
+Salaried,High School,Tier2,25,57100.0,680.0,Yes
+,Bachelor,Tier1,35,29400.0,803.0,Yes
+Salaried,Master,Tier1,24,65500.0,718.0,Yes
+Self-Employed,High School,Tier2,55,42000.0,616.0,No
+Self-Employed,Bachelor,Tier2,54,57000.0,715.0,Yes
+Self-Employed,Master,Tier2,32,49300.0,538.0,No
+Salaried,Bachelor,Tier1,34,93500.0,573.0,Yes
+Unemployed,Master,Tier1,35,94600.0,677.0,Yes
+Unemployed,Bachelor,Tier1,61,55900.0,477.0,No
+Self-Employed,Bachelor,Tier2,42,56300.0,647.0,Yes
+Salaried,Bachelor,Tier2,55,47500.0,568.0,No
+Salaried,Master,Tier3,41,77100.0,658.0,Yes
+Salaried,Bachelor,Tier2,52,48400.0,564.0,No
+Salaried,Bachelor,Tier2,44,46600.0,684.0,Yes
+Self-Employed,Bachelor,Tier2,33,74600.0,652.0,Yes
+Self-Employed,Bachelor,Tier1,60,,762.0,Yes
+Unemployed,Bachelor,Tier2,52,54200.0,651.0,No
+Salaried,Bachelor,Tier2,55,23400.0,589.0,No
+Salaried,Master,Tier2,63,69100.0,630.0,Yes
+Salaried,Bachelor,Tier1,32,93800.0,542.0,Yes
+Salaried,Bachelor,Tier3,25,69400.0,682.0,Yes
+Salaried,Bachelor,Tier3,47,84200.0,697.0,Yes
+Salaried,Bachelor,Tier1,35,38100.0,848.0,Yes
+Salaried,Bachelor,Tier2,40,59700.0,600.0,No
+Self-Employed,High School,Tier3,31,36100.0,629.0,No
+Salaried,High School,Tier1,38,50400.0,604.0,No
+Self-Employed,Bachelor,Tier3,38,70400.0,667.0,Yes
+Self-Employed,Bachelor,Tier2,36,57000.0,681.0,Yes
+Salaried,Bachelor,Tier3,54,26700.0,646.0,No
+Self-Employed,High School,Tier3,47,28700.0,737.0,Yes
+Self-Employed,Bachelor,Tier1,42,27400.0,601.0,No
+Salaried,High School,Tier2,26,64800.0,729.0,Yes
+Salaried,Bachelor,Tier2,46,96300.0,693.0,Yes
+Self-Employed,Master,Tier1,28,82200.0,649.0,Yes
+Salaried,High School,Tier2,35,17100.0,625.0,No
+Salaried,Bachelor,Tier3,39,83400.0,844.0,Yes
+Salaried,High School,Tier1,27,73700.0,585.0,No
+Self-Employed,High School,Tier2,38,24100.0,674.0,No
+Self-Employed,High School,Tier3,33,48900.0,590.0,No
+Self-Employed,High School,Tier2,59,76900.0,793.0,Yes
+Self-Employed,Bachelor,Tier2,59,66000.0,721.0,Yes
+Salaried,Master,Tier3,21,28800.0,596.0,No
+Self-Employed,High School,Tier2,48,67200.0,691.0,Yes
+Salaried,Bachelor,Tier1,49,15000.0,671.0,No
+Salaried,Bachelor,Tier1,38,50500.0,609.0,No
+Self-Employed,Master,Tier3,42,77800.0,711.0,Yes
+Salaried,Bachelor,Tier1,56,55400.0,681.0,Yes
+Self-Employed,High School,Tier2,38,45000.0,667.0,Yes
+Self-Employed,Bachelor,Tier1,23,72800.0,647.0,Yes
+Self-Employed,Bachelor,Tier2,37,74500.0,684.0,Yes
+Self-Employed,Master,Tier3,32,81200.0,668.0,Yes
+Self-Employed,Bachelor,Tier2,38,72500.0,655.0,Yes
+Salaried,Bachelor,Tier3,31,76600.0,599.0,Yes
+Salaried,High School,Tier1,27,69700.0,786.0,Yes
+Salaried,Bachelor,Tier2,65,60300.0,566.0,No
+Salaried,Master,Tier3,26,56800.0,684.0,Yes
+Salaried,Bachelor,Tier2,52,50300.0,624.0,No
+Unemployed,Bachelor,Tier1,53,30800.0,791.0,Yes
+Salaried,Master,Tier3,48,35900.0,578.0,No
+Salaried,Master,Tier2,62,49400.0,591.0,No
+Salaried,Bachelor,Tier2,21,59800.0,572.0,No
+Salaried,Bachelor,Tier3,34,83800.0,676.0,Yes
+Self-Employed,Bachelor,Tier1,29,54200.0,540.0,No
+Self-Employed,Bachelor,Tier2,46,75100.0,612.0,No
+Self-Employed,Bachelor,Tier1,49,76600.0,478.0,No
+Self-Employed,High School,Tier2,61,50400.0,669.0,Yes
+Salaried,Master,Tier1,38,66900.0,610.0,No
+Self-Employed,Master,Tier2,31,50100.0,531.0,No
+Salaried,Master,Tier1,62,81400.0,737.0,Yes
+Salaried,Master,Tier2,51,67700.0,545.0,No
+Salaried,Bachelor,Tier1,55,31200.0,714.0,Yes
+Self-Employed,Bachelor,Tier2,41,58200.0,594.0,No
+Salaried,Bachelor,Tier2,41,88000.0,778.0,Yes
+Salaried,Bachelor,Tier3,38,51400.0,710.0,Yes
+Salaried,Bachelor,Tier2,54,64000.0,569.0,No
+Salaried,High School,Tier2,30,65900.0,577.0,No
+Self-Employed,Bachelor,Tier3,64,34300.0,698.0,Yes
+Salaried,High School,Tier2,28,65200.0,629.0,Yes
+Salaried,High School,Tier1,41,,636.0,No
+Salaried,Bachelor,Tier3,35,42500.0,752.0,Yes
+Self-Employed,Bachelor,Tier2,49,76500.0,590.0,No
+Salaried,High School,Tier1,51,62100.0,657.0,Yes
+Salaried,Master,Tier2,62,48900.0,726.0,Yes
+Salaried,Master,Tier1,56,63900.0,715.0,Yes
+Unemployed,High School,Tier1,32,53800.0,637.0,No
+Unemployed,High School,Tier3,30,55300.0,627.0,No
+Self-Employed,Bachelor,Tier1,60,68100.0,511.0,No
+Salaried,Bachelor,Tier3,42,40500.0,566.0,No
+Unemployed,Master,Tier3,25,55800.0,675.0,No
+Self-Employed,High School,Tier2,58,48800.0,639.0,No
+Self-Employed,Bachelor,Tier3,50,23300.0,656.0,No
+Salaried,High School,Tier3,22,36600.0,733.0,Yes
+Salaried,Bachelor,Tier3,56,86400.0,555.0,No
+,Master,Tier2,48,62700.0,631.0,Yes
+Unemployed,High School,Tier1,48,28500.0,665.0,No
+Salaried,High School,Tier2,59,24200.0,594.0,No
+Salaried,Bachelor,Tier2,43,52800.0,765.0,Yes
+Salaried,Bachelor,Tier1,41,86200.0,723.0,Yes
+Self-Employed,Master,Tier2,48,51300.0,673.0,Yes
+Salaried,Master,Tier1,29,81100.0,794.0,Yes
+Unemployed,High School,Tier3,27,62000.0,530.0,No
+Self-Employed,High School,Tier1,58,64400.0,649.0,Yes
+Self-Employed,Bachelor,Tier1,30,28300.0,679.0,No
+Salaried,High School,Tier1,43,73800.0,577.0,No
+Self-Employed,Master,Tier1,33,48300.0,674.0,No
+Self-Employed,Bachelor,Tier1,31,72300.0,561.0,No
+Self-Employed,High School,Tier1,47,38700.0,705.0,No
+,Master,Tier1,57,58500.0,735.0,Yes
+Salaried,High School,Tier1,40,62000.0,672.0,Yes
+Salaried,Bachelor,Tier2,27,51900.0,502.0,No
+Salaried,Bachelor,Tier2,32,63100.0,573.0,No
+Salaried,Bachelor,Tier2,28,49700.0,695.0,Yes
+Salaried,Bachelor,Tier2,60,42000.0,652.0,Yes
+Salaried,Bachelor,Tier1,35,87100.0,434.0,No
+Self-Employed,Master,Tier1,37,76000.0,749.0,Yes
+Salaried,Master,Tier1,24,39800.0,661.0,Yes
+Unemployed,Bachelor,Tier3,41,66400.0,584.0,No
+Self-Employed,High School,Tier3,62,40100.0,730.0,Yes
+Salaried,Bachelor,Tier3,39,31300.0,596.0,No
+Self-Employed,Master,Tier2,50,75700.0,595.0,Yes
+Salaried,Bachelor,Tier2,29,20900.0,679.0,No
+Unemployed,Bachelor,Tier2,27,73500.0,792.0,Yes
+Salaried,Bachelor,Tier3,53,49900.0,780.0,Yes
+Self-Employed,High School,Tier3,23,50800.0,679.0,Yes
+Salaried,Bachelor,Tier3,41,63200.0,687.0,Yes
+Salaried,Bachelor,Tier3,35,66600.0,713.0,Yes
+Salaried,Bachelor,Tier2,21,38500.0,549.0,No
+Unemployed,Master,Tier3,44,69400.0,702.0,Yes
+Self-Employed,Master,Tier3,64,57300.0,591.0,Yes
+Salaried,Bachelor,Tier2,24,29900.0,675.0,Yes
+Salaried,Bachelor,Tier3,57,51600.0,632.0,No
+Salaried,Bachelor,Tier1,45,82600.0,690.0,Yes
+Salaried,Master,Tier3,53,88500.0,659.0,Yes
+Salaried,Bachelor,Tier3,25,69300.0,404.0,No
+Salaried,Master,Tier1,60,31200.0,664.0,No
+Self-Employed,High School,Tier2,21,64800.0,701.0,Yes
+Unemployed,Master,Tier1,61,72000.0,686.0,Yes
+Salaried,High School,Tier3,50,69500.0,642.0,Yes
+Self-Employed,High School,Tier3,36,70700.0,781.0,Yes
+Salaried,Bachelor,Tier2,21,62300.0,675.0,Yes
+Self-Employed,High School,Tier3,48,53600.0,685.0,Yes
+Salaried,High School,Tier1,24,42800.0,734.0,Yes
+Self-Employed,High School,Tier1,48,17000.0,679.0,No
+Self-Employed,Bachelor,Tier2,55,61800.0,578.0,No
+Self-Employed,Bachelor,Tier1,33,58700.0,455.0,No
+Salaried,High School,Tier2,31,66200.0,612.0,No
+Unemployed,Bachelor,Tier1,30,28200.0,711.0,No
+Salaried,Master,Tier2,31,67900.0,622.0,Yes
+Salaried,High School,Tier2,26,96100.0,714.0,Yes
+Self-Employed,High School,Tier3,32,56600.0,662.0,Yes
+Salaried,Master,Tier1,50,53800.0,753.0,Yes
+Self-Employed,Master,Tier3,34,61200.0,626.0,No
+Self-Employed,Bachelor,Tier2,56,95600.0,687.0,Yes
+Salaried,Master,Tier2,57,34500.0,690.0,Yes
+Unemployed,High School,Tier2,55,59100.0,770.0,Yes
+Salaried,Bachelor,Tier2,45,39000.0,513.0,No
+Salaried,Bachelor,Tier1,35,44100.0,613.0,No
+Salaried,High School,Tier2,62,54000.0,718.0,Yes
+Unemployed,Bachelor,Tier1,30,81900.0,774.0,Yes
+Salaried,Bachelor,Tier2,41,91000.0,669.0,Yes
+Salaried,Bachelor,Tier2,41,64000.0,627.0,Yes
+,Bachelor,Tier2,54,47500.0,711.0,Yes
+,Bachelor,Tier3,45,104900.0,719.0,Yes
+Unemployed,High School,Tier1,56,46400.0,621.0,No
+Self-Employed,High School,Tier3,62,43600.0,676.0,No
+Unemployed,Bachelor,Tier3,38,19500.0,744.0,No
+Unemployed,High School,Tier3,60,82900.0,801.0,Yes
+Salaried,High School,Tier3,28,74400.0,709.0,Yes
+Salaried,High School,Tier1,62,103400.0,654.0,Yes
+Self-Employed,High School,Tier2,29,27200.0,646.0,No
+Self-Employed,Master,Tier1,59,84200.0,695.0,Yes
+Salaried,Bachelor,Tier3,38,56400.0,641.0,Yes
+Salaried,Master,Tier2,64,71100.0,665.0,Yes
+Self-Employed,High School,Tier1,26,22000.0,565.0,No
+Salaried,Bachelor,Tier3,41,84400.0,754.0,Yes
+Unemployed,Bachelor,Tier1,61,70700.0,559.0,No
+Salaried,Bachelor,Tier2,23,54200.0,615.0,Yes
+Salaried,Master,Tier3,32,67900.0,658.0,Yes
+Self-Employed,Master,Tier1,24,39700.0,809.0,Yes
+Salaried,Master,Tier2,35,43400.0,616.0,No
+Salaried,High School,Tier3,38,45700.0,597.0,No
+Self-Employed,High School,Tier1,48,17900.0,606.0,No
+Unemployed,Bachelor,Tier2,32,72200.0,783.0,Yes
+Salaried,High School,Tier1,28,78800.0,425.0,No
+,Bachelor,Tier2,28,41000.0,570.0,No
+Self-Employed,Bachelor,Tier1,63,62000.0,850.0,Yes
+Unemployed,Bachelor,Tier3,63,49700.0,697.0,No
+Salaried,Master,Tier3,30,61600.0,562.0,Yes
+Salaried,Bachelor,Tier1,29,42400.0,647.0,Yes
+Salaried,High School,Tier2,23,37300.0,655.0,Yes
+Salaried,High School,Tier2,64,76000.0,718.0,Yes
+Salaried,Bachelor,Tier3,52,53700.0,797.0,Yes
+Self-Employed,Bachelor,Tier2,55,95400.0,681.0,Yes
+Salaried,High School,Tier1,34,55900.0,607.0,No
+Salaried,Bachelor,Tier1,49,36500.0,713.0,No
+Self-Employed,Bachelor,Tier3,23,79500.0,594.0,No
+Self-Employed,Master,Tier2,51,67600.0,567.0,No
+Salaried,Bachelor,Tier3,47,69500.0,509.0,No
+Self-Employed,Bachelor,Tier2,35,78800.0,525.0,No
+Self-Employed,High School,Tier3,52,41900.0,578.0,No
+Self-Employed,Bachelor,Tier1,50,52500.0,556.0,No
+Salaried,Bachelor,Tier1,40,51600.0,675.0,Yes
+Salaried,Bachelor,Tier3,29,29200.0,554.0,No
+Unemployed,Bachelor,Tier3,22,49700.0,399.0,No
+Salaried,High School,Tier2,63,81700.0,566.0,No
+Salaried,High School,Tier2,33,59700.0,612.0,No
+Salaried,High School,Tier2,34,28100.0,602.0,No
+Self-Employed,Master,Tier2,51,23900.0,772.0,Yes
+Unemployed,Bachelor,Tier1,32,88300.0,601.0,No
+Salaried,High School,Tier3,37,53200.0,720.0,Yes
+Unemployed,Master,Tier1,53,42100.0,648.0,No
+Salaried,Bachelor,Tier3,47,49500.0,647.0,Yes
+Self-Employed,Bachelor,Tier1,50,25500.0,583.0,No
+Self-Employed,Master,Tier1,21,83500.0,645.0,Yes
+Salaried,High School,Tier2,41,47100.0,589.0,No
+Salaried,High School,Tier2,42,82300.0,664.0,Yes
+Salaried,Bachelor,Tier2,49,56000.0,631.0,Yes
+Unemployed,High School,Tier1,27,83600.0,574.0,No
+Self-Employed,Bachelor,Tier3,28,60100.0,729.0,Yes
+Unemployed,High School,Tier3,55,72100.0,684.0,No
+Self-Employed,High School,Tier3,51,69400.0,614.0,No
+Salaried,High School,Tier1,57,67500.0,662.0,Yes
+Self-Employed,Bachelor,Tier2,33,62000.0,643.0,No
+Salaried,High School,Tier2,65,50300.0,581.0,No
+Salaried,High School,Tier2,33,93300.0,656.0,Yes
+,Master,Tier1,50,36900.0,600.0,No
+Self-Employed,Bachelor,Tier1,28,55100.0,574.0,No
+Salaried,Bachelor,Tier2,62,55300.0,520.0,No
+Salaried,High School,Tier1,35,,621.0,No
+Self-Employed,Bachelor,Tier2,57,46400.0,695.0,Yes
+,High School,Tier1,35,61300.0,594.0,No
+Self-Employed,Bachelor,Tier1,56,51600.0,850.0,Yes
+Salaried,High School,Tier2,41,23400.0,721.0,Yes
+Salaried,Master,Tier2,23,55200.0,754.0,Yes
+Salaried,Master,Tier2,29,33000.0,714.0,Yes
+Self-Employed,High School,Tier2,51,,798.0,Yes
+Unemployed,High School,Tier3,29,57700.0,587.0,No
+Salaried,High School,Tier2,33,64800.0,445.0,No
+Salaried,Bachelor,Tier2,45,65500.0,614.0,Yes
+Salaried,High School,Tier3,32,66300.0,695.0,Yes
+Self-Employed,Master,Tier2,26,16300.0,662.0,No
+Self-Employed,Bachelor,Tier3,49,27800.0,672.0,No
+Salaried,Master,Tier3,52,94500.0,756.0,Yes
+Salaried,Bachelor,Tier1,53,34100.0,681.0,No
+Self-Employed,Master,Tier2,63,67200.0,714.0,Yes
+Salaried,High School,Tier2,26,41300.0,575.0,No
+Self-Employed,Bachelor,Tier3,40,56600.0,562.0,No
+,Bachelor,Tier2,31,42300.0,779.0,Yes
+Salaried,Master,Tier1,61,66200.0,658.0,Yes
+Unemployed,Bachelor,Tier2,45,57700.0,600.0,No
+Salaried,Master,Tier1,25,46000.0,600.0,No
+Salaried,High School,Tier3,52,,598.0,No
+Salaried,Master,Tier2,22,60400.0,593.0,No
+Salaried,Bachelor,Tier3,33,30700.0,547.0,No
+,Bachelor,Tier3,53,63500.0,530.0,No
+Salaried,Master,Tier2,43,107500.0,634.0,Yes
+Salaried,Bachelor,Tier2,55,82000.0,603.0,No
+Salaried,Bachelor,Tier3,46,69400.0,739.0,Yes
+Self-Employed,Bachelor,Tier3,58,53300.0,673.0,Yes
+Self-Employed,High School,Tier3,46,16200.0,671.0,No
+Salaried,Bachelor,Tier1,23,28600.0,591.0,No
+Salaried,High School,Tier2,24,80700.0,640.0,Yes
+Salaried,High School,Tier1,55,39200.0,679.0,Yes
+Unemployed,Master,Tier3,22,41000.0,707.0,No
+Unemployed,Bachelor,Tier2,37,51700.0,642.0,No
+Salaried,Bachelor,Tier2,21,33800.0,736.0,Yes
+Salaried,Bachelor,Tier1,34,30500.0,651.0,No
+Salaried,Bachelor,Tier2,47,54000.0,713.0,Yes
+Salaried,Bachelor,Tier3,28,37200.0,611.0,No
+Self-Employed,Master,Tier1,41,40200.0,505.0,No
+Salaried,Master,Tier1,65,39400.0,671.0,Yes
+Salaried,Bachelor,Tier3,24,65400.0,708.0,Yes
+Salaried,Bachelor,Tier3,23,50400.0,696.0,Yes
+Salaried,Bachelor,Tier1,33,51400.0,684.0,Yes
+Salaried,Bachelor,Tier1,58,66900.0,622.0,Yes
+Self-Employed,Bachelor,Tier3,39,52200.0,585.0,No
+Salaried,Bachelor,Tier3,49,49400.0,694.0,Yes
+Unemployed,Bachelor,Tier2,22,64400.0,684.0,No
+Salaried,Bachelor,Tier2,54,68400.0,605.0,No
+,Bachelor,Tier1,24,52100.0,739.0,Yes
+Unemployed,Bachelor,Tier1,53,56600.0,579.0,No
+Unemployed,High School,Tier3,27,39400.0,603.0,No
+Self-Employed,High School,Tier1,59,37800.0,781.0,Yes
+Self-Employed,Bachelor,Tier1,34,70400.0,719.0,Yes
+Self-Employed,Bachelor,Tier3,29,63900.0,621.0,No
+Self-Employed,High School,Tier3,36,64100.0,673.0,Yes
+Salaried,Bachelor,Tier3,21,60600.0,662.0,Yes
+Salaried,Bachelor,Tier2,28,55900.0,430.0,No
+Salaried,High School,Tier2,47,,577.0,No
+Unemployed,Master,Tier2,34,73700.0,646.0,No
+Salaried,Master,Tier2,36,73200.0,621.0,Yes
+Salaried,Bachelor,Tier2,57,53000.0,670.0,Yes
+Self-Employed,Bachelor,Tier2,26,82700.0,740.0,Yes
+Salaried,High School,Tier2,38,59600.0,624.0,No
+Salaried,Master,Tier3,29,67600.0,565.0,No
+Salaried,Bachelor,Tier3,42,60600.0,676.0,Yes
+Salaried,Master,Tier1,35,59900.0,624.0,No
+Salaried,Bachelor,Tier2,23,40300.0,638.0,No
+Salaried,High School,Tier1,24,69000.0,627.0,Yes
+Salaried,High School,Tier2,59,111900.0,829.0,Yes
+Salaried,Bachelor,Tier1,23,47500.0,471.0,No
+Salaried,Bachelor,Tier1,56,56400.0,619.0,No
+Self-Employed,High School,Tier3,62,46100.0,650.0,No
+Salaried,Bachelor,Tier2,41,45200.0,588.0,No
+Unemployed,Master,Tier3,35,85900.0,722.0,Yes
+Unemployed,Bachelor,Tier1,55,41500.0,715.0,No
+Salaried,Bachelor,Tier1,65,45500.0,646.0,Yes
+Salaried,High School,Tier2,26,,628.0,No
+Salaried,Bachelor,Tier1,64,39800.0,641.0,Yes
+Self-Employed,Bachelor,Tier1,63,20800.0,642.0,No
+Self-Employed,Master,Tier3,27,67600.0,644.0,Yes
+Self-Employed,Bachelor,Tier1,23,111000.0,635.0,Yes
+Salaried,Bachelor,Tier1,53,47700.0,670.0,Yes
+Self-Employed,High School,Tier2,24,21700.0,710.0,No
+Salaried,High School,Tier2,48,73000.0,552.0,No
+Self-Employed,Bachelor,Tier2,23,40500.0,566.0,No
+Salaried,Bachelor,Tier2,52,81000.0,510.0,No
+Self-Employed,Bachelor,Tier3,31,49400.0,719.0,Yes
+Unemployed,Master,Tier1,25,,670.0,No
+,Master,Tier2,23,51400.0,690.0,Yes
+Self-Employed,Master,Tier2,29,70200.0,536.0,No
+Salaried,High School,Tier3,45,50500.0,793.0,Yes
+Self-Employed,Bachelor,Tier2,24,45100.0,601.0,No
+Salaried,Master,Tier2,57,51000.0,663.0,Yes
+Unemployed,Bachelor,Tier1,48,29600.0,718.0,No
+Salaried,High School,Tier1,34,62900.0,571.0,No
+Unemployed,Master,Tier1,65,19300.0,606.0,No
+Self-Employed,Bachelor,Tier3,50,46100.0,664.0,Yes
+Self-Employed,Bachelor,Tier1,51,70200.0,850.0,Yes
+Self-Employed,Master,Tier3,28,61100.0,674.0,Yes
+Self-Employed,Bachelor,Tier1,52,66800.0,779.0,Yes
+Unemployed,Bachelor,Tier3,46,,746.0,Yes
+Salaried,Bachelor,Tier3,65,78400.0,679.0,Yes
+Self-Employed,Bachelor,Tier1,42,73500.0,571.0,No
+Salaried,High School,Tier1,51,63900.0,735.0,Yes
+Self-Employed,Bachelor,Tier1,36,73600.0,530.0,No
+Salaried,Master,Tier3,22,70000.0,778.0,Yes
+Self-Employed,High School,Tier1,26,46200.0,666.0,Yes
+Self-Employed,Bachelor,Tier2,60,28100.0,438.0,No
+Salaried,Master,Tier2,54,63400.0,623.0,Yes
+Salaried,High School,Tier3,37,65900.0,702.0,Yes
+Self-Employed,Bachelor,Tier2,52,76800.0,631.0,Yes
+Self-Employed,Bachelor,Tier2,21,36300.0,707.0,Yes
+Salaried,Bachelor,Tier3,22,36900.0,582.0,No
+Self-Employed,High School,Tier1,43,64200.0,546.0,No
+Unemployed,Bachelor,Tier3,49,53600.0,644.0,No
+Salaried,Bachelor,Tier1,63,17300.0,653.0,No
+Salaried,Bachelor,Tier2,55,62500.0,622.0,Yes
+Salaried,High School,Tier3,32,18000.0,748.0,Yes
+Self-Employed,Bachelor,Tier2,57,36100.0,582.0,No
+Salaried,Bachelor,Tier2,43,82000.0,675.0,Yes
+Self-Employed,High School,Tier1,58,91500.0,655.0,Yes
+Self-Employed,High School,Tier2,28,30700.0,525.0,No
+Salaried,High School,Tier2,22,48400.0,544.0,No
+Unemployed,Bachelor,Tier2,23,55900.0,651.0,No
+,High School,Tier2,65,90600.0,808.0,Yes
+Salaried,Master,Tier2,24,45100.0,696.0,Yes
+Salaried,Bachelor,Tier2,63,45500.0,512.0,No
+Salaried,Master,Tier1,53,86000.0,401.0,No
+Salaried,Master,Tier2,27,47500.0,709.0,Yes
+Salaried,High School,Tier1,59,69400.0,642.0,Yes
+Unemployed,Bachelor,Tier3,27,25500.0,741.0,No
+Salaried,Master,Tier2,27,51600.0,580.0,No
+Salaried,Bachelor,Tier1,46,21800.0,678.0,Yes
+Self-Employed,Bachelor,Tier2,33,33900.0,718.0,Yes
+Self-Employed,Bachelor,Tier3,34,71800.0,614.0,No
+Unemployed,High School,Tier1,29,54000.0,616.0,No
+Self-Employed,Bachelor,Tier1,48,48600.0,652.0,No
+Salaried,Master,Tier1,22,40000.0,693.0,Yes
+Salaried,Master,Tier1,32,50600.0,649.0,Yes
+Unemployed,High School,Tier3,45,61000.0,728.0,Yes
+Self-Employed,Bachelor,Tier3,42,74700.0,613.0,No
+Unemployed,Bachelor,Tier1,52,15000.0,544.0,No
+Salaried,Master,Tier3,30,38400.0,808.0,Yes
+Unemployed,High School,Tier1,50,58200.0,602.0,No
+Self-Employed,Master,Tier2,55,53000.0,605.0,No
+Salaried,Master,Tier3,38,63100.0,645.0,Yes
+Self-Employed,High School,Tier2,32,60400.0,655.0,Yes
+Self-Employed,High School,Tier1,45,48900.0,619.0,No
+Salaried,Master,Tier2,47,44500.0,649.0,Yes
+Salaried,High School,Tier3,25,50100.0,647.0,Yes
+Self-Employed,Bachelor,Tier1,46,78000.0,664.0,Yes
+Salaried,Master,Tier1,27,40400.0,461.0,No
+Salaried,Bachelor,Tier1,46,53700.0,800.0,Yes
+Salaried,Bachelor,Tier2,62,58700.0,638.0,Yes
+Salaried,Bachelor,Tier2,45,86200.0,696.0,Yes
+Unemployed,High School,Tier3,55,,540.0,No
+,Master,Tier3,34,,612.0,No
+Salaried,Bachelor,Tier3,62,79600.0,596.0,No
+Unemployed,High School,Tier3,57,53700.0,768.0,Yes
+Unemployed,High School,Tier1,62,50800.0,603.0,No
+Salaried,Master,Tier2,54,48400.0,711.0,Yes
+Self-Employed,High School,Tier1,50,49900.0,598.0,No
+Salaried,Master,Tier2,44,72100.0,614.0,Yes
+Unemployed,Bachelor,Tier3,62,59600.0,630.0,No
+Self-Employed,Master,Tier2,59,59700.0,753.0,Yes
+Self-Employed,Master,Tier3,39,32500.0,499.0,No
+Salaried,Master,Tier2,24,35700.0,545.0,No
+Unemployed,Master,Tier2,21,97900.0,494.0,No
+Salaried,High School,Tier2,31,51400.0,563.0,No
+Salaried,Bachelor,Tier1,23,39500.0,585.0,No
+Salaried,Bachelor,Tier1,30,83600.0,521.0,No
+Self-Employed,Bachelor,Tier2,25,60600.0,591.0,No
+Salaried,Master,Tier1,65,66600.0,489.0,No
+Unemployed,Master,Tier3,25,52200.0,569.0,No
+Self-Employed,Bachelor,Tier1,49,48600.0,746.0,Yes
+Salaried,Bachelor,Tier1,36,51600.0,682.0,Yes
+Salaried,Bachelor,Tier3,28,27300.0,665.0,No
+Salaried,Bachelor,Tier1,52,53200.0,570.0,No
+,Bachelor,Tier3,64,60900.0,527.0,No
+Self-Employed,Bachelor,Tier3,56,92000.0,559.0,No
+Salaried,High School,Tier1,64,56700.0,647.0,Yes
+Self-Employed,High School,Tier2,47,15000.0,719.0,Yes
+Salaried,Bachelor,Tier2,51,53100.0,722.0,Yes
+Self-Employed,Bachelor,Tier3,27,,700.0,Yes
+Unemployed,Master,Tier3,59,72300.0,591.0,No
+Self-Employed,Bachelor,Tier3,54,38800.0,652.0,No
+Self-Employed,High School,Tier2,32,66800.0,624.0,Yes
+Self-Employed,High School,Tier2,36,40200.0,634.0,No
+Salaried,High School,Tier2,48,27900.0,813.0,Yes
+Salaried,Master,Tier3,21,48000.0,509.0,No
+Salaried,High School,Tier2,57,56800.0,631.0,No
+Salaried,Bachelor,Tier2,33,17600.0,747.0,Yes
+Self-Employed,Master,Tier2,24,32000.0,533.0,No
+Self-Employed,Master,Tier3,35,55200.0,599.0,No
+Unemployed,High School,Tier3,58,46800.0,608.0,No
+Salaried,High School,Tier1,33,62900.0,632.0,Yes
+Self-Employed,High School,Tier1,45,30700.0,522.0,No
+Salaried,High School,Tier2,57,69300.0,698.0,Yes
+Salaried,High School,Tier2,22,31300.0,703.0,Yes
+Self-Employed,Bachelor,Tier2,55,87900.0,691.0,Yes
+Unemployed,Master,Tier1,33,20700.0,580.0,No
+Self-Employed,Bachelor,Tier2,52,33100.0,657.0,No
+Salaried,Bachelor,Tier2,29,63300.0,578.0,No
+Self-Employed,High School,Tier2,27,88300.0,623.0,Yes
+Salaried,Master,Tier2,56,61300.0,822.0,Yes
+Unemployed,Bachelor,Tier3,57,66300.0,658.0,Yes
+Self-Employed,Master,Tier2,65,55400.0,555.0,No
+Salaried,Master,Tier3,51,34500.0,664.0,Yes
+Salaried,Bachelor,Tier2,41,45200.0,542.0,No
+Salaried,High School,Tier2,29,30800.0,554.0,No
+Unemployed,High School,Tier2,34,29400.0,567.0,No
+Salaried,Bachelor,Tier1,50,63000.0,614.0,Yes
+Self-Employed,Master,Tier1,36,32500.0,725.0,Yes
+Self-Employed,Bachelor,Tier2,42,61400.0,696.0,Yes
+Self-Employed,Bachelor,Tier3,28,29000.0,692.0,Yes
+Salaried,Bachelor,Tier2,40,60900.0,562.0,No
+Unemployed,High School,Tier1,31,45200.0,607.0,No
+Salaried,Bachelor,Tier2,26,83100.0,672.0,Yes
+Self-Employed,Bachelor,Tier1,26,61500.0,600.0,No
+Self-Employed,Bachelor,Tier3,44,,628.0,Yes
+Self-Employed,Bachelor,Tier3,37,39900.0,685.0,Yes
+Unemployed,High School,Tier2,25,56100.0,622.0,No
+Salaried,Bachelor,Tier2,44,35400.0,668.0,Yes
+Salaried,High School,Tier2,28,46700.0,777.0,Yes
+Salaried,Master,Tier2,21,49800.0,636.0,Yes
+Salaried,High School,Tier3,26,40500.0,744.0,Yes
+Salaried,High School,Tier3,41,30700.0,695.0,Yes
+Salaried,Bachelor,Tier2,63,26700.0,533.0,No
+Salaried,Bachelor,Tier2,31,15000.0,562.0,No
+Salaried,Bachelor,Tier1,33,33900.0,583.0,No
+Salaried,Bachelor,Tier1,31,67500.0,582.0,No
+Self-Employed,Master,Tier1,36,23000.0,643.0,No
+Self-Employed,Bachelor,Tier2,53,27600.0,699.0,Yes
+Salaried,Bachelor,Tier3,35,90800.0,750.0,Yes
+Salaried,Bachelor,Tier2,50,42300.0,675.0,Yes
+Salaried,High School,Tier1,61,61400.0,614.0,No
+Self-Employed,Bachelor,Tier1,63,67800.0,483.0,No
+Salaried,High School,Tier2,46,68300.0,656.0,Yes
+Salaried,Bachelor,Tier3,53,24600.0,652.0,No
+Salaried,High School,Tier2,62,50400.0,665.0,Yes
+Salaried,Master,Tier3,56,22600.0,818.0,Yes
+Salaried,Bachelor,Tier3,34,103900.0,749.0,Yes
+Self-Employed,Master,Tier1,26,23100.0,713.0,Yes
+Self-Employed,Bachelor,Tier2,26,34000.0,573.0,No
+Self-Employed,High School,Tier3,60,34200.0,609.0,No
+Self-Employed,Master,Tier2,46,25100.0,642.0,No
+Self-Employed,Bachelor,Tier1,34,82100.0,588.0,Yes
+Salaried,Bachelor,Tier3,36,103400.0,690.0,Yes
+Self-Employed,Bachelor,Tier3,33,45500.0,679.0,Yes
+Salaried,Bachelor,Tier2,57,28600.0,563.0,No
+Salaried,Master,Tier2,48,15000.0,746.0,Yes
+Self-Employed,Bachelor,Tier1,60,50100.0,658.0,Yes
+Salaried,Bachelor,Tier3,34,48700.0,512.0,No
+Salaried,Bachelor,Tier2,42,42000.0,646.0,Yes
+Self-Employed,Bachelor,Tier1,26,59400.0,672.0,Yes
+Unemployed,Master,Tier2,64,62900.0,728.0,Yes
+Unemployed,Bachelor,Tier3,44,61500.0,623.0,No
+Salaried,Bachelor,Tier3,45,48700.0,716.0,Yes
+Salaried,Master,Tier1,39,,665.0,Yes
+Self-Employed,Bachelor,Tier1,33,68300.0,545.0,No
+Salaried,Bachelor,Tier3,63,55300.0,537.0,No
+Self-Employed,Bachelor,Tier3,43,72800.0,740.0,Yes
+Salaried,High School,Tier2,51,70800.0,746.0,Yes
+Salaried,Bachelor,Tier2,22,26600.0,676.0,Yes
+Salaried,High School,Tier2,33,26300.0,770.0,Yes
+Self-Employed,High School,Tier2,57,39900.0,735.0,Yes
+Salaried,Bachelor,Tier1,24,33900.0,705.0,Yes
+Salaried,Bachelor,Tier1,25,70100.0,577.0,No
+Salaried,Master,Tier1,57,62000.0,789.0,Yes
+Salaried,High School,Tier3,34,77000.0,693.0,Yes
+Salaried,High School,Tier1,33,62900.0,619.0,No
+Self-Employed,Master,Tier1,46,59200.0,597.0,No
+Salaried,High School,Tier2,29,79000.0,671.0,Yes
+Self-Employed,High School,Tier1,22,64400.0,516.0,No
+,High School,Tier1,21,56400.0,706.0,No
+Salaried,Bachelor,Tier2,24,84600.0,574.0,Yes
+Salaried,Master,Tier2,28,57300.0,680.0,Yes
+Self-Employed,Bachelor,Tier2,52,48900.0,608.0,No
+Salaried,Bachelor,Tier3,34,38200.0,629.0,No
+Salaried,High School,Tier1,24,69100.0,589.0,No
+Unemployed,Bachelor,Tier3,21,79700.0,637.0,No
+Unemployed,Bachelor,Tier3,42,54000.0,801.0,Yes
+Self-Employed,High School,Tier3,58,81200.0,761.0,Yes
+Salaried,High School,Tier2,36,15600.0,678.0,No
+Self-Employed,Bachelor,Tier2,23,53900.0,648.0,Yes
+Self-Employed,High School,Tier2,31,54200.0,718.0,Yes
+Salaried,Bachelor,Tier2,43,40500.0,740.0,Yes
+Self-Employed,Bachelor,Tier1,29,102700.0,584.0,Yes
+Salaried,High School,Tier3,65,53700.0,644.0,No
+Salaried,Bachelor,Tier2,55,46800.0,504.0,No
+Salaried,Bachelor,Tier3,36,55500.0,740.0,Yes
+Salaried,Bachelor,Tier2,63,15000.0,815.0,Yes
+Salaried,Master,Tier1,35,39800.0,656.0,Yes
+Self-Employed,Bachelor,Tier2,27,74700.0,480.0,No
+Unemployed,Master,Tier2,63,42400.0,699.0,No
+Self-Employed,High School,Tier2,64,38400.0,578.0,No
+Self-Employed,Bachelor,Tier2,35,81200.0,597.0,No
+Unemployed,High School,Tier1,47,81800.0,700.0,No
+Salaried,Bachelor,Tier2,28,65300.0,670.0,Yes
+Salaried,Bachelor,Tier2,49,45900.0,611.0,No
+Salaried,High School,Tier3,52,50200.0,598.0,No
+Salaried,Bachelor,Tier1,52,38900.0,660.0,Yes
+Self-Employed,Bachelor,Tier2,46,35100.0,617.0,No
+Salaried,High School,Tier1,52,34100.0,561.0,No
+Salaried,High School,Tier2,45,,623.0,No
+Salaried,Bachelor,Tier2,57,34300.0,677.0,Yes
+Salaried,Bachelor,Tier2,29,23700.0,636.0,No
+Unemployed,Bachelor,Tier3,42,59400.0,537.0,No
+Salaried,High School,Tier1,39,59700.0,729.0,Yes
+Salaried,Bachelor,Tier2,45,89000.0,431.0,No
+Salaried,Master,Tier1,27,41600.0,614.0,Yes
+Salaried,Bachelor,Tier1,35,60900.0,600.0,No
+Self-Employed,Bachelor,Tier2,63,61300.0,662.0,Yes
+Salaried,Master,Tier1,25,49900.0,695.0,Yes
+Salaried,Master,Tier2,49,69900.0,740.0,Yes
+Salaried,Bachelor,Tier2,50,70500.0,593.0,No
+Self-Employed,Master,Tier3,42,61500.0,697.0,Yes
+Self-Employed,Master,Tier2,22,49900.0,666.0,Yes
+Self-Employed,Bachelor,Tier2,22,47800.0,513.0,No
+Self-Employed,Bachelor,Tier2,33,27600.0,802.0,Yes
+Self-Employed,High School,Tier1,25,38900.0,535.0,No
+Salaried,High School,Tier1,25,42600.0,684.0,Yes
+Salaried,Bachelor,Tier2,28,32500.0,681.0,Yes
+Salaried,Bachelor,Tier3,29,63800.0,672.0,Yes
+Salaried,Bachelor,Tier1,58,78900.0,610.0,Yes
+Self-Employed,Bachelor,Tier2,49,36800.0,716.0,Yes
+Salaried,Bachelor,Tier3,22,60700.0,525.0,No
+,Master,Tier3,49,34300.0,645.0,Yes
+Unemployed,High School,Tier2,27,48900.0,605.0,No
+Salaried,High School,Tier2,39,41200.0,596.0,No
+Unemployed,Bachelor,Tier2,22,67000.0,684.0,No
+Self-Employed,Master,Tier3,25,41400.0,736.0,Yes
+Unemployed,Master,Tier1,26,75200.0,623.0,No
+Salaried,Master,Tier3,40,50100.0,712.0,Yes
+Salaried,Master,Tier1,41,42000.0,654.0,Yes
+Salaried,Bachelor,Tier3,36,29900.0,579.0,No
+,Bachelor,Tier1,48,60100.0,629.0,Yes
+Salaried,High School,Tier1,53,72900.0,626.0,Yes
+Unemployed,Bachelor,Tier1,53,60500.0,594.0,No
+Self-Employed,Master,Tier2,47,99800.0,684.0,Yes
+Salaried,Bachelor,Tier2,45,83600.0,669.0,Yes
+Salaried,Bachelor,Tier1,43,48800.0,523.0,No
+Salaried,High School,Tier2,31,48600.0,518.0,No
+Salaried,High School,Tier2,42,64400.0,684.0,Yes
+Unemployed,High School,Tier3,21,38200.0,585.0,No
+Salaried,High School,Tier3,64,78300.0,674.0,Yes
+Salaried,Master,Tier2,37,62200.0,712.0,Yes
+Self-Employed,Bachelor,Tier1,55,60100.0,548.0,No
+Salaried,Master,Tier1,64,68700.0,537.0,No
+Salaried,Bachelor,Tier3,43,89500.0,784.0,Yes
+Self-Employed,High School,Tier1,59,58400.0,678.0,No
+Self-Employed,High School,Tier2,42,52700.0,616.0,No
+Unemployed,Master,Tier3,26,85200.0,575.0,No
+Self-Employed,High School,Tier3,22,74400.0,609.0,No
+Salaried,Master,Tier2,27,48600.0,555.0,No
+Self-Employed,High School,Tier2,63,55100.0,721.0,Yes
+Unemployed,Bachelor,Tier2,42,58900.0,588.0,No
+Self-Employed,Master,Tier3,35,62200.0,737.0,Yes
+Unemployed,High School,Tier1,41,27900.0,618.0,No
+Self-Employed,High School,Tier1,32,24200.0,567.0,No
+Unemployed,Master,Tier2,60,37300.0,616.0,No
+Salaried,High School,Tier1,65,35700.0,440.0,No
+Self-Employed,Bachelor,Tier2,24,42100.0,640.0,No
+Salaried,Bachelor,Tier2,53,67700.0,636.0,Yes
+Self-Employed,High School,Tier3,36,51600.0,716.0,Yes
+Self-Employed,Bachelor,Tier3,23,58900.0,499.0,No
+,Bachelor,Tier2,62,30500.0,743.0,No
+Unemployed,Bachelor,Tier3,23,45800.0,716.0,Yes
+Salaried,Master,Tier1,30,66700.0,750.0,Yes
+Self-Employed,High School,Tier2,22,66900.0,646.0,Yes
+Self-Employed,High School,Tier1,42,40500.0,731.0,Yes
+Salaried,Bachelor,Tier3,47,58200.0,532.0,No
+Salaried,Master,Tier3,35,99000.0,707.0,Yes
+Salaried,High School,Tier3,24,54600.0,588.0,No
+Self-Employed,High School,Tier3,26,41100.0,518.0,No
+Salaried,Bachelor,Tier3,63,51500.0,560.0,No
+Unemployed,Master,Tier1,57,56800.0,650.0,No
+Salaried,High School,Tier3,63,52000.0,584.0,No
+Unemployed,Bachelor,Tier2,44,54400.0,680.0,No
+Salaried,Bachelor,Tier2,45,26100.0,505.0,No
+Self-Employed,Bachelor,Tier2,56,35700.0,480.0,No
+Salaried,High School,Tier2,48,52000.0,760.0,Yes
+Self-Employed,High School,Tier1,40,51700.0,722.0,Yes
+Self-Employed,Bachelor,Tier1,34,43700.0,566.0,No
+Unemployed,Bachelor,Tier1,42,51500.0,650.0,No
+Self-Employed,Master,Tier2,23,56200.0,732.0,Yes
+Salaried,Bachelor,Tier3,29,72800.0,684.0,Yes
+Salaried,Bachelor,Tier2,54,53000.0,662.0,Yes
+Salaried,Master,Tier2,60,63000.0,738.0,Yes
+Salaried,Bachelor,Tier2,25,44200.0,592.0,Yes
+Self-Employed,Bachelor,Tier2,25,66400.0,652.0,Yes
+Self-Employed,Master,Tier1,24,62500.0,649.0,Yes
+Self-Employed,High School,Tier3,56,72300.0,628.0,No
+,Bachelor,Tier1,35,69300.0,619.0,No
+Self-Employed,Bachelor,Tier3,35,66800.0,656.0,Yes
+Self-Employed,High School,Tier3,21,53000.0,653.0,Yes
+Salaried,Bachelor,Tier2,64,59900.0,566.0,No
+Salaried,High School,Tier3,40,76300.0,714.0,Yes
+Self-Employed,High School,Tier1,56,42000.0,572.0,No
+Unemployed,Bachelor,Tier3,52,42400.0,633.0,No
+Salaried,High School,Tier3,27,58600.0,626.0,Yes
+Salaried,Bachelor,Tier3,57,63300.0,679.0,Yes
+Self-Employed,Master,Tier2,45,38500.0,480.0,No
+Salaried,Master,Tier3,48,53500.0,721.0,Yes
+Salaried,High School,Tier3,30,53100.0,596.0,No
+Unemployed,High School,Tier2,59,15000.0,748.0,No
+Self-Employed,High School,Tier3,62,50600.0,612.0,No
+Salaried,High School,Tier3,39,51900.0,646.0,No
+Unemployed,Master,Tier2,25,51800.0,803.0,Yes
+Salaried,Bachelor,Tier3,59,83300.0,628.0,Yes
+Unemployed,High School,Tier2,60,30700.0,749.0,No
+Salaried,Master,Tier2,43,38500.0,653.0,No
+Self-Employed,Bachelor,Tier1,47,15000.0,683.0,Yes
+Salaried,High School,Tier1,31,45400.0,656.0,No
+Salaried,High School,Tier3,24,47100.0,718.0,Yes
+Unemployed,Bachelor,Tier2,63,44800.0,595.0,No
+Salaried,Bachelor,Tier2,42,77200.0,571.0,No
+Salaried,High School,Tier1,33,,599.0,No
+Salaried,Master,Tier2,52,56600.0,658.0,Yes
+Self-Employed,Master,Tier3,22,47600.0,632.0,No
+Self-Employed,Master,Tier3,24,75500.0,707.0,Yes
+Unemployed,High School,Tier1,31,54600.0,754.0,No
+Salaried,High School,Tier2,41,38600.0,572.0,No
+Salaried,Master,Tier2,37,20700.0,591.0,No
+Salaried,Bachelor,Tier2,29,46200.0,535.0,No
+Self-Employed,Bachelor,Tier2,36,70100.0,812.0,Yes
+Unemployed,Bachelor,Tier2,36,100500.0,674.0,Yes
+Self-Employed,High School,Tier2,44,56200.0,688.0,No
+Self-Employed,Bachelor,Tier2,46,39700.0,543.0,No
+Salaried,Master,Tier2,60,31300.0,650.0,No
+Unemployed,Bachelor,Tier2,57,66000.0,691.0,No
+Salaried,Bachelor,Tier3,34,19700.0,630.0,No
+Salaried,Master,Tier3,61,66000.0,736.0,Yes
+Salaried,Bachelor,Tier2,44,71400.0,835.0,Yes
+Salaried,Bachelor,Tier3,29,63700.0,574.0,No
+Salaried,Master,Tier3,36,50600.0,568.0,No
+Salaried,Bachelor,Tier1,54,66300.0,580.0,No
+Salaried,High School,Tier2,57,,778.0,Yes
+Self-Employed,High School,Tier1,37,39400.0,733.0,Yes
+Salaried,High School,Tier3,28,92000.0,639.0,Yes
+Salaried,Bachelor,Tier1,29,48000.0,653.0,Yes
+Unemployed,Bachelor,Tier2,25,70500.0,585.0,No
+Self-Employed,Bachelor,Tier1,52,15000.0,721.0,Yes
+Salaried,Bachelor,Tier2,43,80500.0,620.0,Yes
+Salaried,Bachelor,Tier3,41,84400.0,629.0,Yes
+Unemployed,Master,Tier2,51,55600.0,699.0,No
+Salaried,High School,Tier3,58,66200.0,635.0,Yes
+Salaried,Bachelor,Tier3,56,66200.0,631.0,Yes
+Unemployed,Bachelor,Tier3,27,42100.0,651.0,No
+Salaried,Bachelor,Tier1,47,65900.0,714.0,Yes
+Self-Employed,High School,Tier3,60,38800.0,782.0,Yes
+Self-Employed,Bachelor,Tier1,55,42800.0,697.0,Yes
+Self-Employed,Master,Tier2,35,77500.0,714.0,Yes
+Salaried,Bachelor,Tier3,38,74500.0,634.0,Yes
+Salaried,Master,Tier2,61,40900.0,593.0,No
+Salaried,Master,Tier2,22,40300.0,702.0,Yes
+Salaried,Bachelor,Tier2,44,42100.0,664.0,Yes
+Unemployed,Bachelor,Tier3,26,69700.0,536.0,No
+,Bachelor,Tier3,61,35000.0,624.0,No
+Self-Employed,Master,Tier2,22,62100.0,643.0,Yes
+Self-Employed,High School,Tier3,22,69900.0,609.0,No
+Self-Employed,Bachelor,Tier1,35,53200.0,769.0,Yes
+Salaried,Master,Tier1,30,75200.0,688.0,Yes
+Salaried,High School,Tier2,43,48900.0,760.0,Yes
+Unemployed,Bachelor,Tier3,34,50700.0,671.0,No
+Self-Employed,Bachelor,Tier1,37,35500.0,657.0,No
+Self-Employed,Master,Tier1,46,75300.0,575.0,No
+Unemployed,Master,Tier1,46,39700.0,651.0,No
+Self-Employed,Bachelor,Tier3,63,62000.0,651.0,Yes
+Salaried,Bachelor,Tier1,42,53600.0,541.0,No
+Self-Employed,Bachelor,Tier2,46,33900.0,607.0,No
+Salaried,Bachelor,Tier3,51,42800.0,624.0,No
+Self-Employed,Bachelor,Tier1,28,82700.0,683.0,Yes
+Unemployed,Master,Tier2,51,59000.0,687.0,No
+Salaried,High School,Tier2,59,34800.0,603.0,No
+Salaried,High School,Tier3,35,61100.0,688.0,Yes
+Salaried,Bachelor,Tier2,29,,635.0,Yes
+Unemployed,Bachelor,Tier2,36,124100.0,420.0,No
+Salaried,Bachelor,Tier1,33,60700.0,611.0,Yes
+Salaried,High School,Tier3,47,47400.0,736.0,Yes
+Salaried,Bachelor,Tier3,59,83400.0,515.0,No
+Salaried,Master,Tier1,47,18200.0,659.0,No
+Salaried,High School,Tier2,26,56900.0,777.0,Yes
+Salaried,Bachelor,Tier3,35,94900.0,589.0,Yes
+Salaried,Master,Tier1,52,52700.0,650.0,No
+Salaried,High School,Tier1,35,20300.0,546.0,No
+Salaried,Bachelor,Tier2,47,47100.0,780.0,Yes
+Salaried,High School,Tier2,52,,643.0,Yes
+Salaried,Master,Tier1,35,62500.0,654.0,Yes
+Self-Employed,Bachelor,Tier2,50,38200.0,758.0,Yes
+Salaried,Master,Tier1,38,41300.0,703.0,Yes
+Salaried,High School,Tier2,27,43800.0,580.0,No
+Salaried,Bachelor,Tier3,37,62200.0,598.0,No
+Salaried,Bachelor,Tier2,40,81800.0,690.0,Yes
+Salaried,High School,Tier1,21,76000.0,600.0,No
+Salaried,High School,Tier3,61,64100.0,481.0,No
+Unemployed,High School,Tier1,44,28400.0,646.0,No
+Salaried,Master,Tier3,22,28400.0,532.0,No
+Salaried,Bachelor,Tier2,60,65700.0,779.0,Yes
+Salaried,Bachelor,Tier3,59,28100.0,664.0,No
+Salaried,Bachelor,Tier1,21,50500.0,578.0,No
+Salaried,Bachelor,Tier1,28,61100.0,594.0,No
+Self-Employed,Bachelor,Tier2,37,32200.0,499.0,No
+Self-Employed,Bachelor,Tier1,43,34500.0,562.0,No
+Salaried,Bachelor,Tier1,53,53100.0,731.0,Yes
+Salaried,High School,Tier3,40,65100.0,829.0,Yes
+Salaried,Master,Tier3,48,76200.0,708.0,Yes
+Salaried,Master,Tier1,21,67100.0,643.0,Yes
+Self-Employed,Bachelor,Tier3,50,56500.0,615.0,No
+Salaried,Bachelor,Tier3,62,40100.0,573.0,No
+Salaried,High School,Tier3,44,33600.0,815.0,Yes
+Unemployed,Master,Tier2,41,44800.0,635.0,No
+Salaried,Master,Tier2,34,63200.0,819.0,Yes
+Salaried,Master,Tier2,63,61700.0,761.0,Yes
+Self-Employed,Bachelor,Tier2,22,15000.0,511.0,No
+Salaried,High School,Tier3,33,39300.0,597.0,No
+Salaried,High School,Tier1,27,79100.0,596.0,No
+Salaried,High School,Tier2,59,56600.0,644.0,Yes
+Unemployed,High School,Tier1,42,26700.0,645.0,No
+Salaried,High School,Tier3,62,,850.0,Yes
+Salaried,Master,Tier2,50,54400.0,564.0,No
+Salaried,High School,Tier2,46,62700.0,668.0,Yes
+Salaried,High School,Tier3,44,63000.0,699.0,Yes
+Self-Employed,Master,Tier3,30,47600.0,650.0,Yes
+Salaried,Bachelor,Tier1,46,40400.0,659.0,Yes
+Self-Employed,Bachelor,Tier3,51,97400.0,566.0,No
+Self-Employed,Bachelor,Tier3,64,75100.0,659.0,Yes
+Self-Employed,Master,Tier1,45,71400.0,691.0,Yes
+Salaried,Bachelor,Tier3,63,66500.0,676.0,Yes
+Unemployed,Bachelor,Tier2,63,34900.0,696.0,No
+Self-Employed,Bachelor,Tier2,44,80600.0,763.0,Yes
+Salaried,Bachelor,Tier2,40,,725.0,Yes
+Self-Employed,Bachelor,Tier1,27,60700.0,656.0,Yes
+Unemployed,Bachelor,Tier1,33,22200.0,556.0,No
+Salaried,High School,Tier1,60,15000.0,602.0,No
+Unemployed,Bachelor,Tier1,27,61400.0,632.0,No
+Salaried,High School,Tier2,38,38800.0,670.0,Yes
+Self-Employed,High School,Tier2,52,15200.0,612.0,No
+Unemployed,High School,Tier1,31,65800.0,575.0,No
+Salaried,Master,Tier2,64,97400.0,555.0,Yes
+Self-Employed,Bachelor,Tier2,50,82800.0,518.0,No
+Salaried,Bachelor,Tier2,22,49900.0,631.0,No
+Self-Employed,Master,Tier3,32,55200.0,532.0,No
+Self-Employed,High School,Tier2,54,72800.0,570.0,No
+Salaried,Bachelor,Tier3,59,77400.0,618.0,Yes
+Salaried,Bachelor,Tier1,62,48100.0,543.0,No
+Salaried,High School,Tier3,59,55700.0,680.0,Yes
+Salaried,Bachelor,Tier3,24,61000.0,709.0,Yes
+Salaried,Master,Tier3,53,66100.0,606.0,Yes
+Salaried,High School,Tier2,25,,615.0,No
+,Bachelor,Tier2,24,52600.0,693.0,Yes
+Salaried,High School,Tier2,52,82600.0,593.0,No
+Self-Employed,Bachelor,Tier2,42,79200.0,587.0,No
+Self-Employed,Bachelor,Tier3,50,64500.0,746.0,Yes
+Self-Employed,Bachelor,Tier3,59,89400.0,721.0,Yes
+Salaried,Bachelor,Tier2,24,47300.0,698.0,Yes
+Unemployed,High School,Tier1,44,87500.0,724.0,Yes
+Self-Employed,Bachelor,Tier2,58,65900.0,492.0,No
+Salaried,Bachelor,Tier1,40,120400.0,758.0,Yes
+Salaried,Bachelor,Tier1,44,31200.0,681.0,Yes
+Self-Employed,High School,Tier2,43,41200.0,731.0,Yes
+Salaried,Bachelor,Tier3,61,63400.0,681.0,Yes
+Salaried,Bachelor,Tier1,23,62900.0,654.0,Yes
+Unemployed,High School,Tier1,60,94000.0,628.0,No
+Salaried,High School,Tier1,57,41600.0,679.0,Yes
+Salaried,Bachelor,Tier3,57,73100.0,625.0,Yes
+Unemployed,Bachelor,Tier2,39,78200.0,719.0,Yes
+Self-Employed,High School,Tier1,44,69100.0,523.0,No
+Salaried,Master,Tier1,37,35800.0,607.0,No
+Unemployed,Bachelor,Tier2,32,83200.0,814.0,Yes
+Unemployed,Bachelor,Tier1,60,79600.0,600.0,No
+Salaried,Bachelor,Tier2,43,67000.0,631.0,Yes
+Self-Employed,Bachelor,Tier2,53,59100.0,579.0,No
+Salaried,Bachelor,Tier3,25,59500.0,677.0,Yes
+Salaried,Master,Tier1,56,53400.0,591.0,No
+Self-Employed,Bachelor,Tier2,50,67800.0,635.0,No
+Salaried,Bachelor,Tier1,65,55600.0,718.0,Yes
+Self-Employed,Bachelor,Tier3,27,38000.0,594.0,No
+Self-Employed,Bachelor,Tier3,45,34000.0,713.0,Yes
+Salaried,High School,Tier3,44,40000.0,716.0,Yes
+Self-Employed,Bachelor,Tier2,45,59400.0,734.0,Yes
+Salaried,Bachelor,Tier1,23,54500.0,661.0,Yes
+Unemployed,Master,Tier3,42,59300.0,850.0,Yes
+Salaried,Bachelor,Tier3,34,65000.0,734.0,Yes
+Self-Employed,Bachelor,Tier1,48,42500.0,676.0,Yes
+Self-Employed,Master,Tier2,31,84300.0,580.0,No
+Salaried,Bachelor,Tier2,40,,642.0,Yes
+,High School,Tier3,48,46300.0,764.0,Yes
+Self-Employed,High School,Tier2,23,64600.0,787.0,Yes
+Self-Employed,High School,Tier2,56,18300.0,768.0,Yes
+Self-Employed,High School,Tier2,53,39200.0,713.0,Yes
+Unemployed,Bachelor,Tier1,23,74600.0,550.0,No
+Salaried,Bachelor,Tier2,23,20300.0,689.0,No
+Salaried,Bachelor,Tier1,59,77400.0,551.0,No
+Salaried,High School,Tier3,33,85200.0,531.0,No
+Self-Employed,Bachelor,Tier2,59,47600.0,669.0,No
+Salaried,High School,Tier2,43,60800.0,692.0,Yes
+Salaried,Master,Tier1,36,77400.0,722.0,Yes
+Salaried,High School,Tier1,33,45700.0,690.0,Yes
+Unemployed,Bachelor,Tier2,50,72400.0,693.0,No
+Salaried,Bachelor,Tier1,25,,571.0,No
+Self-Employed,Bachelor,Tier1,39,45400.0,642.0,No
+Salaried,Bachelor,Tier3,36,39000.0,529.0,No
+Unemployed,Bachelor,Tier2,27,61900.0,490.0,No
+Salaried,High School,Tier2,36,78200.0,709.0,Yes
+Salaried,Master,Tier2,44,51300.0,590.0,No
+Unemployed,Bachelor,Tier3,51,29600.0,720.0,No
+Unemployed,Bachelor,Tier2,24,33300.0,739.0,No
+Salaried,Master,Tier3,60,62900.0,600.0,Yes
+Salaried,Master,Tier3,60,91900.0,697.0,Yes
+Self-Employed,High School,Tier2,52,62900.0,597.0,No
+Unemployed,High School,Tier2,62,47300.0,502.0,No
+Salaried,High School,Tier3,40,70300.0,660.0,Yes
+Salaried,High School,Tier2,57,50200.0,612.0,Yes
+Self-Employed,Bachelor,Tier2,53,47400.0,615.0,No
+Self-Employed,Master,Tier2,46,35800.0,808.0,Yes
+Self-Employed,Master,Tier2,29,83200.0,528.0,No
+Self-Employed,Bachelor,Tier1,46,15000.0,681.0,Yes
+Salaried,Bachelor,Tier2,61,71000.0,570.0,No
+Unemployed,Master,Tier1,65,45700.0,723.0,No
+Unemployed,Master,Tier2,41,46800.0,674.0,No
+Self-Employed,High School,Tier2,32,88800.0,680.0,Yes
+Salaried,Bachelor,Tier3,54,40700.0,574.0,No
+Salaried,Master,Tier1,24,41400.0,589.0,No
+Self-Employed,Bachelor,Tier2,27,52400.0,724.0,Yes
+Salaried,Bachelor,Tier2,46,63300.0,792.0,Yes
+Unemployed,Master,Tier1,65,46200.0,688.0,No
+Salaried,Master,Tier1,35,23500.0,578.0,No
+Self-Employed,Master,Tier1,40,37700.0,677.0,Yes
+Unemployed,Bachelor,Tier1,35,80600.0,844.0,Yes
+Salaried,High School,Tier1,40,56500.0,658.0,No
+Salaried,Bachelor,Tier2,21,64000.0,767.0,Yes
+Self-Employed,Bachelor,Tier2,47,49800.0,591.0,No
+Self-Employed,Bachelor,Tier1,47,41800.0,647.0,No
+Salaried,Bachelor,Tier1,35,88600.0,700.0,Yes
+Self-Employed,Bachelor,Tier1,32,51200.0,682.0,Yes
+Unemployed,Bachelor,Tier2,55,46100.0,589.0,No
+Salaried,Bachelor,Tier2,29,76900.0,585.0,No
+Salaried,Bachelor,Tier2,23,40600.0,729.0,Yes
+Salaried,Bachelor,Tier1,22,43100.0,745.0,Yes
+Salaried,High School,Tier1,60,55200.0,771.0,Yes
+Salaried,High School,Tier3,37,55000.0,794.0,Yes
+Salaried,Master,Tier1,25,60200.0,661.0,Yes
+Self-Employed,Bachelor,Tier1,60,96800.0,625.0,Yes
+Salaried,High School,Tier1,27,61700.0,758.0,Yes
+Unemployed,Bachelor,Tier3,36,15000.0,707.0,No
+Salaried,Bachelor,Tier2,21,61500.0,571.0,No
+Salaried,High School,Tier2,51,,567.0,No
+Self-Employed,Bachelor,Tier3,52,55900.0,689.0,Yes
+Unemployed,High School,Tier1,55,59900.0,636.0,No
+Salaried,Bachelor,Tier3,32,54400.0,648.0,Yes
+Salaried,High School,Tier1,35,53900.0,736.0,Yes
+Salaried,High School,Tier2,63,67300.0,711.0,Yes
+Salaried,High School,Tier2,57,44200.0,756.0,Yes
+Salaried,Bachelor,Tier2,22,36000.0,495.0,No
+Salaried,High School,Tier3,52,115500.0,670.0,Yes
+Salaried,Master,Tier1,57,40700.0,706.0,Yes
+Salaried,High School,Tier3,46,57000.0,528.0,No
+Unemployed,Bachelor,Tier2,49,25100.0,598.0,No
+,Bachelor,Tier2,21,57300.0,583.0,No
+Salaried,Bachelor,Tier3,22,36300.0,652.0,Yes
+Salaried,High School,Tier1,22,46200.0,780.0,Yes
+Salaried,Master,Tier3,28,75900.0,812.0,Yes
+Salaried,Master,Tier2,65,64400.0,585.0,No
+Self-Employed,High School,Tier3,49,66400.0,692.0,Yes
+Unemployed,High School,Tier1,56,19600.0,695.0,No
+Unemployed,Master,Tier2,34,91700.0,681.0,Yes
+Unemployed,Bachelor,Tier2,63,31200.0,682.0,No
+Unemployed,High School,Tier2,29,85600.0,674.0,No
+Unemployed,High School,Tier1,61,75400.0,785.0,Yes
+Salaried,Bachelor,Tier1,22,66500.0,738.0,Yes
+Salaried,Bachelor,Tier3,21,37900.0,565.0,No
+Salaried,Bachelor,Tier1,24,58000.0,714.0,Yes
+Self-Employed,Master,Tier3,56,45600.0,721.0,Yes
+Salaried,Bachelor,Tier3,32,55600.0,675.0,Yes
+,Bachelor,Tier1,41,50000.0,741.0,Yes
+Self-Employed,Bachelor,Tier1,42,15000.0,665.0,No
+Salaried,Bachelor,Tier2,56,77400.0,666.0,Yes
+Salaried,High School,Tier1,36,53400.0,660.0,Yes
+Salaried,High School,Tier2,21,45300.0,489.0,No
+Salaried,Bachelor,Tier2,38,43800.0,644.0,No
+Unemployed,Bachelor,Tier2,33,62200.0,597.0,No
+Self-Employed,High School,Tier2,53,37100.0,555.0,No
+Self-Employed,Bachelor,Tier2,54,15000.0,765.0,Yes
+Salaried,Bachelor,Tier2,25,63100.0,690.0,Yes
+Salaried,Bachelor,Tier1,56,65400.0,648.0,Yes
+Salaried,Bachelor,Tier2,24,51000.0,605.0,No
+Self-Employed,Master,Tier3,48,32000.0,674.0,No
+Self-Employed,Bachelor,Tier2,38,56800.0,729.0,Yes
+Salaried,High School,Tier2,34,25700.0,584.0,No
+Unemployed,Bachelor,Tier2,42,34500.0,650.0,No
+Salaried,Bachelor,Tier1,34,40000.0,719.0,Yes
+Unemployed,High School,Tier1,56,71900.0,495.0,No
+Salaried,High School,Tier1,64,47700.0,645.0,Yes
+Salaried,High School,Tier3,57,46000.0,616.0,No
+Self-Employed,Bachelor,Tier1,40,94100.0,639.0,Yes
+Salaried,Bachelor,Tier3,43,62000.0,610.0,Yes
+Salaried,High School,Tier1,41,61800.0,661.0,Yes
+Salaried,Master,Tier1,56,47600.0,804.0,Yes
+Salaried,Master,Tier2,45,,624.0,No
+Self-Employed,High School,Tier2,42,15000.0,673.0,No
+Unemployed,Master,Tier3,39,74400.0,810.0,Yes
+Unemployed,High School,Tier3,37,64000.0,606.0,No
+Salaried,Master,Tier3,45,51400.0,795.0,Yes
+Salaried,Master,Tier1,52,52300.0,650.0,Yes
+Salaried,High School,Tier3,40,69700.0,793.0,Yes
+Salaried,Bachelor,Tier1,57,23900.0,710.0,Yes
+Salaried,Master,Tier3,58,43200.0,675.0,Yes
+Unemployed,Master,Tier2,40,32300.0,645.0,No
+Unemployed,Master,Tier2,61,90400.0,600.0,No
+Self-Employed,Bachelor,Tier1,28,72500.0,656.0,Yes
+Salaried,High School,Tier1,62,15000.0,722.0,Yes
+,Master,Tier1,34,24700.0,649.0,No
+Salaried,Bachelor,Tier3,46,52400.0,625.0,Yes
+Salaried,Bachelor,Tier3,33,45600.0,630.0,No
+Salaried,Bachelor,Tier3,40,28500.0,729.0,Yes
+Salaried,Bachelor,Tier1,36,93900.0,748.0,Yes
+Salaried,High School,Tier2,52,61300.0,597.0,No
+Unemployed,Bachelor,Tier1,24,64500.0,597.0,No
+Salaried,High School,Tier2,58,41200.0,680.0,No
+Unemployed,Bachelor,Tier2,61,69400.0,772.0,Yes
+Salaried,Master,Tier1,46,47400.0,742.0,Yes
+Self-Employed,Bachelor,Tier2,45,49300.0,550.0,No
+Salaried,Bachelor,Tier1,52,67200.0,629.0,No
+Salaried,Bachelor,Tier2,29,22400.0,576.0,No
+Salaried,Master,Tier2,54,86900.0,629.0,Yes
+Salaried,Bachelor,Tier1,30,58600.0,778.0,Yes
+Unemployed,Bachelor,Tier3,51,80600.0,536.0,No
+Salaried,High School,Tier2,34,33500.0,520.0,No
+Self-Employed,High School,Tier3,54,36500.0,584.0,No
+Salaried,Bachelor,Tier2,56,31800.0,673.0,Yes
+Salaried,Master,Tier3,30,60000.0,700.0,Yes
+Salaried,Bachelor,Tier3,48,,685.0,Yes
+Salaried,High School,Tier3,43,45700.0,744.0,Yes
+Unemployed,Master,Tier2,34,34700.0,509.0,No
+Self-Employed,Bachelor,Tier1,47,29700.0,745.0,Yes
+Self-Employed,Master,Tier1,65,54000.0,625.0,Yes
+Salaried,High School,Tier2,21,,709.0,Yes
+Salaried,Bachelor,Tier1,64,41300.0,544.0,No
+Unemployed,Master,Tier1,59,85900.0,650.0,No
+,High School,Tier1,44,53400.0,669.0,Yes
+Salaried,Bachelor,Tier2,48,80400.0,742.0,Yes
+Salaried,Master,Tier1,37,44300.0,523.0,No
+Self-Employed,High School,Tier2,26,59900.0,652.0,No
+Self-Employed,High School,Tier3,46,53900.0,563.0,No
+Self-Employed,Bachelor,Tier3,57,,690.0,No
+Self-Employed,Bachelor,Tier2,31,83600.0,712.0,Yes
+Salaried,High School,Tier2,53,52300.0,753.0,Yes
+Unemployed,Bachelor,Tier2,54,69900.0,607.0,No
+Salaried,Bachelor,Tier2,55,40000.0,724.0,Yes
+Self-Employed,High School,Tier2,36,51700.0,759.0,Yes
+Salaried,Bachelor,Tier1,38,37700.0,519.0,No
+Unemployed,Master,Tier3,39,79700.0,699.0,Yes
+Salaried,Bachelor,Tier1,59,61200.0,727.0,Yes
