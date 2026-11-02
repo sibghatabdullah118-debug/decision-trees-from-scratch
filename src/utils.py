@@ -65,8 +65,10 @@ def discretize(X_train, X_test, cols, labels=("low", "medium", "high")):
     """Turn numbers into low/medium/high so ID3 (categorical only) can use them."""
     X_train, X_test = X_train.copy(), X_test.copy()
     for c in cols:
-        edges = X_train[c].quantile([0, 1 / 3, 2 / 3, 1]).to_numpy()
-        edges[0], edges[-1] = -np.inf, np.inf
+        q = X_train[c].quantile([0, 1 / 3, 2 / 3, 1])
+        edges = np.array(q, dtype=float)      # np.array makes a writable copy
+        edges[0] = -np.inf
+        edges[-1] = np.inf
         X_train[c] = pd.cut(X_train[c], bins=edges, labels=list(labels)).astype(str)
         X_test[c] = pd.cut(X_test[c], bins=edges, labels=list(labels)).astype(str)
     return X_train, X_test
